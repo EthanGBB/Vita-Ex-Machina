@@ -1,0 +1,13 @@
+{
+  "itemGroup.vitaexmachina": "Example Mod Tab",
+  "block.vitaexmachina.example_block": "Example Block",
+  "item.vitaexmachina.example_item": "Example Item",
+
+  "vitaexmachina.configuration.title": "Vita Ex Machina Configs",
+  "vitaexmachina.configuration.section.vitaexmachina.common.toml": "Vita Ex Machina Configs",
+  "vitaexmachina.configuration.section.vitaexmachina.common.toml.title": "Vita Ex Machina Configs",
+  "vitaexmachina.configuration.items": "Item List",
+  "vitaexmachina.configuration.logDirtBlock": "Log Dirt Block",
+  "vitaexmachina.configuration.magicNumberIntroduction": "Magic Number Text",
+  "vitaexmachina.configuration.magicNumber": "Magic Number"
+}
